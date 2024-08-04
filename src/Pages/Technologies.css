@@ -1,0 +1,31 @@
+.techLogos{
+    height: 50px;
+}
+
+.technologiesTechStack{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.secondTechnologiesTechStack{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.technogiesTools{
+    display: flex;
+    justify-content: space-between;
+}
+.techStackText{
+    color: white;
+    margin-top: 5px;
+}
+
+.imageBox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.techstacksmalltext{
+    margin-bottom: 20px;
+}

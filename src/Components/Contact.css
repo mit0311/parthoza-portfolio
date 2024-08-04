@@ -1,0 +1,30 @@
+.contactform {
+  /* width: 70%; */
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* width: 70%; */
+  align-items: center;
+}
+
+.divTextField {
+  /* width: 70%; */
+
+  margin-bottom: 20px;
+}
+
+.textField {
+  width: 600px !important;
+  color: white;
+  margin-bottom: 25px;
+}
+
+.divTextField .MuiFormLabel-root {
+  color: white !important;
+}
+
+.MuiOutlinedInput-notchedOutline {
+  color: white !important
+    ;
+}
