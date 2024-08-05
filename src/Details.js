@@ -88,6 +88,13 @@ export const workDetails = [
 // Enter your Education Details here
 export const eduDetails = [
   {
+    Position: "Ms (Master Of Science) in Computer Science",
+    Company: "Roosevelt University",
+    Location: "Chicago USA",
+    Type: "Full Time",
+    Duration: "Jan 2024 - Current",
+  },
+  {
     Position: "Bachelor in Computer Engineering",
     Company: `Saffrony Institute Of Technology`,
     Location: "Mehsana - Ahmedabad Highway, Linch",

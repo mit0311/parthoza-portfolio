@@ -43,6 +43,8 @@ const Contact = () => {
   };
   return (
     <>
+
+    <h1 style={{textAlign:"center",color:"white",fontSize:"20px",fontWeight:"bold"}}>Let's Connect</h1>
       <div className="contactform">
         <form>
           <div className="divTextField">

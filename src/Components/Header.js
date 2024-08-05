@@ -65,7 +65,9 @@ function Header() {
             </NavLink>
           </li>
           <li>
-            <NavLink to="/contact" onClick={toggleClass}>
+            <NavLink to="/contact" onClick={toggleClass} style={({ isActive }) => ({
+              color: isActive ? 'white' : 'rgb(173 185 205)',
+            })}>
               Contact
             </NavLink>
           </li>
